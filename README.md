@@ -12,13 +12,13 @@
   <a href="mailto:sivatechie17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL.com">
+  <a href="https://portfolio-v2-inky-ten.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Siva_2517/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://github.com/Siva-2517/PortfolioV2/blob/main/public/resume/Sivasurya_AI_Engineer_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-00C7B7?style=for-the-badge&logo=readdotcv&logoColor=white" />
   </a>
 </p>
