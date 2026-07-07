@@ -1,166 +1,387 @@
-<h1 align="center">Hi 👋, I'm Siva</h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Building Agentic AI Systems & RAG Pipelines</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Agentic+Workflows;LangGraph+%2B+RAG+Pipeline+Builder;Full-Stack+Developer+(MERN);Patent+Holder+-+HARBOUR+Management+System;Always+Shipping+%E2%80%A2+Always+Learning" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Siva+Surya+P;AI+Engineer+%26+Full+Stack+Developer;Agentic+AI+%7C+RAG+%7C+LangGraph;Patent+Holder+%7C+Final-Year+B.Tech+IT" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/B.Tech_IT-Sri_Shakthi_Institute_of_Engineering_%26_Technology-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-8.23_/_10-10B981?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Coimbatore,_Tamil_Nadu,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sivasurya-tech/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://portfolio-v2-inky-ten.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sivasurya-tech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="mailto:sivatechie17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://portfolio-v2-inky-ten.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/Siva_2517/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/Siva-2517/PortfolioV2/blob/main/public/resume/Sivasurya_AI_Engineer_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-00C7B7?style=for-the-badge&logo=readdotcv&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/Siva-2517" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Siva-2517&style=for-the-badge&color=00F7FF" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Siva-2517&color=7C3AED&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Siva-2517?style=flat-square&color=6366F1&label=Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Siva-2517?style=flat-square&color=A78BFA&label=Stars"/>
+
+</div>
+
+<br/>
+
+---
+
+## About
+
+I am an **AI Engineer** and **Full Stack Developer**, currently in my final year of **B.Tech Information Technology** at **Sri Shakthi Institute of Engineering and Technology, Coimbatore**, graduating in 2027 with a **CGPA of 8.23**.
+
+I've worked hands-on with agentic AI systems — building **LangGraph workflows** and **RAG pipelines** during my internship at **Innomatics Research Labs** — and I hold a **published patent** for the **HARBOUR Management System**. My engineering interests sit at the intersection of applied AI, backend architecture, and building products that are actually usable, not just technically impressive.
+
+I approach project selection and career positioning with a founder's mindset — validating ideas for genuine differentiation rather than building for the sake of a resume line.
+
+**Open to:** AI Engineer Roles · Software Engineer Internships · Full Stack Developer Roles
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript&theme=dark"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel&theme=dark"/>
 </p>
 
 ---
 
-### 🧠 About Me
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Agentic AI Systems** | Advanced | LangGraph workflows, multi-step agent orchestration |
+| **Retrieval-Augmented Generation** | Advanced | RAG pipeline design, vector search, LLM API integration |
+| **LLM Integration** | Advanced | Prompt engineering, Claude API, structured outputs |
+| **Computer Vision** | Experienced | OpenCV, MediaPipe-based gesture recognition |
+| **Document AI / OCR** | Experienced | PaddleOCR, IndicBERT NER, structured extraction |
+| **Model Optimization** | Intermediate | OpenVINO INT8 quantization, Intel Geti |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>RAG-Based Customer Support Assistant</b></summary>
+
+<br/>
+
+> An intelligent support assistant that answers customer queries by retrieving and synthesizing information from a knowledge base using a full RAG pipeline.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · LangGraph · RAG · LLM APIs |
+| **Repository** | [github.com/Siva-2517/rag-customer-support](#) |
+
+**What it does:** Combines document retrieval with LLM generation to deliver accurate, context-grounded answers instead of relying on the model's raw knowledge — reducing hallucination and improving response relevance.
+
+</details>
+
+<details>
+<summary><b>AI-Powered Form-Filling Assistant for Seva Kendras — Intel Unnati Industrial Training</b></summary>
+
+<br/>
+
+> An AI system designed to automate form-filling for Indian citizen services, cutting manual data-entry effort for government service centers.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | PaddleOCR · IndicBERT NER · OpenVINO INT8 · Intel Geti |
+| **Target** | >90% entity extraction accuracy |
+| **Timeline** | 12-week structured delivery plan |
+| **Repository** | [github.com/Siva-2517/seva-kendra-form-assistant](#) |
+
+**What it does:** Extracts structured entities from scanned citizen documents using OCR and NER, then auto-populates government service forms — quantized for efficient on-device inference via OpenVINO.
+
+</details>
+
+<details>
+<summary><b>Hand Gesture Cursor Control System</b></summary>
+
+<br/>
+
+> A computer-vision system that lets users control their mouse cursor using real-time hand gesture tracking.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · OpenCV · MediaPipe |
+| **Repository** | [github.com/Siva-2517/hand-gesture-cursor-control](#) |
+
+**What it does:** Tracks hand landmarks in real time via webcam and maps gestures to cursor movement and click actions, enabling touchless computer interaction.
+
+</details>
+
+<details>
+<summary><b>College Sphere — MERN Events Management Platform</b></summary>
+
+<br/>
+
+> A full-stack platform for managing college events end-to-end, from creation to registration and tracking.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | MongoDB · Express · React · Node.js |
+| **Repository** | [github.com/Siva-2517/college-sphere](#) |
+
+**What it does:** Provides a centralized system for students and organizers to create, discover, and register for college events, with role-based access for admins and participants.
+
+</details>
+
+<details>
+<summary><b>HARBOUR Management System — Published Patent</b></summary>
+
+<br/>
+
+> A patented management system addressing operational workflows in the harbour/logistics domain.
+
+| Attribute | Detail |
+|---|---|
+| **Status** | Published Patent |
+| **Repository** | [github.com/Siva-2517/harbour-management-system](#) |
+
+**What it does:** Designs a structured management workflow for harbour operations, recognized through a formally published patent.
+
+</details>
+
+<details>
+<summary><b>Portfolio Website — "Synapse" System</b></summary>
+
+<br/>
+
+> A recruiter-facing personal portfolio with a rotating 3D node-graph hero, a living network canvas background, and a custom comet-trail cursor.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Next.js 14 · TypeScript · Tailwind CSS · Framer Motion · react-three-fiber · Claude API |
+| **Live URL** | [your-portfolio-url.vercel.app](#) |
+| **Features** | 3D node-graph hero · glassmorphic project cards · interactive SVG skill constellation · custom cursor trail |
+
+</details>
+
+<details>
+<summary><b>Java Parking Lot System</b></summary>
+
+<br/>
+
+> An object-oriented parking management system modeling real-world constraints like slot allocation and vehicle types.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Java |
+| **Repository** | [github.com/Siva-2517/java-parking-lot-system](#) |
+
+</details>
+
+---
+
+## Experience
+
+### Agentic AI Engineer Intern — Innomatics Research Labs
+
+`[Add Duration]`
+
+Built agentic AI workflows and retrieval-augmented generation pipelines, working across the LLM application lifecycle from prompt design to orchestration.
+
+**Scope of work:**
+- Designed and implemented multi-step agent workflows using LangGraph
+- Built RAG pipelines integrating document retrieval with LLM generation
+- Worked with LLM APIs for structured, context-grounded outputs
+
+`LangGraph` `RAG` `Python` `LLM APIs`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Published Patent | HARBOUR Management System |
+| Innomatics Research Labs | Agentic AI Engineer Internship |
+| LeetCode | `[Add problem count]` |
+| GeeksforGeeks | `[Add problem count]` |
+| HackerRank | `[Add rating/stars]` |
+| CodeChef | `[Add problem count]` |
+
+</div>
+
+---
+
+## Certifications
+
+`[Add your certifications here — e.g., AWS, NPTEL, Oracle, Cisco — following the badge format below]`
+
+<div align="center">
+
+![Certification](https://img.shields.io/badge/Provider-Certification_Name-232F3E?style=flat-square)
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/YOUR-HANDLE/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://geeksforgeeks.org/user/YOUR-HANDLE/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://hackerrank.com/profile/YOUR-HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://codechef.com/users/YOUR-HANDLE" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Siva-2517&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Siva-2517&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-2517&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Siva-2517&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva-2517&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## Current Focus / Roadmap
 
 ```yaml
-name: Siva
-role: AI Engineer & Full-Stack Developer
-education: B.Tech Information Technology, Sri Shakthi Institute of Engineering and Technology
-cgpa: 8.23
-graduation: 2027
-focus: Agentic AI, RAG Pipelines, LangGraph, Full-Stack Development
-patent: HARBOUR Management System
-currently: Open to Software Engineer / AI Engineer roles
-```
+Learning:
+  - Docker & Containerization (production deployment workflows)
+  - SQL (advanced queries, optimization, schema design)
+  - TypeScript (type-safe full-stack development)
+  - CI/CD Pipelines (GitHub Actions, automated deployment)
+  - Unit Testing (Jest, test-driven development practices)
+  - Computer Networks (practical, protocol-level understanding)
+  - Operating Systems (concurrency, memory management, scheduling)
 
-- 🔭 Currently building an end-to-end **agentic AI / RAG** project portfolio
-- 🧩 Completed an **Agentic AI Internship** building LangGraph workflows & RAG pipelines
-- 📜 Hold a **published patent** — HARBOUR Management System ([view patent →](YOUR_PATENT_LINK))
-- 🌱 Closing skill gaps in **Docker, CI/CD, SQL, and cloud platforms**
-- ⚡ Fun fact: I once debugged a race condition at 3 AM fueled by nothing but chai and stubbornness
+Building:
+  - Agentic AI applications with LangGraph and RAG pipelines
+  - Production-grade full stack applications with typed, tested codebases
+  - A personal brand and portfolio positioned for AI Engineer / Full Stack roles
 
----
+Practicing:
+  - Data Structures & Algorithms (Union-Find, Floyd-Warshall, KMP/Rabin-Karp, monotonic stacks)
+  - System design fundamentals for scalable backend architecture
+  - Company-specific interview preparation (stack mapping, behavioral stories)
 
-### 🗺️ My Journey
-
-```mermaid
-timeline
-    title From Full-Stack to Agentic AI
-    2023 : Started B.Tech IT
-         : Learned MERN stack fundamentals
-    2024 : Built Multi-College Events Portal
-         : Filed HARBOUR Management System patent
-    2025 : Agentic AI Internship
-         : LangGraph + RAG pipeline projects
-    2026 : Deepening Docker, CI/CD, cloud skills
-         : Open to AI/Software Engineer roles
+Open To:
+  - AI Engineer opportunities
+  - Software Engineering internships
+  - Full Stack Developer roles at product-first companies
 ```
 
 ---
 
-### 🛠️ Tech Stack
+## Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,docker,git,github,figma,tailwind,fastapi" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-</p>
+<a href="mailto:sivatechie17@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sivatechie17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sivasurya-tech" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Siva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Siva-2517" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Siva--2517-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://portfolio-v2-inky-ten.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
+</div>
 
-### 🚀 Featured Projects
+<br/>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🤖 <a href="https://github.com/Siva-2517/rag-customer-support">RAG Customer Support Assistant</a></h4>
-      <p>Agentic retrieval-augmented generation system built with LangGraph, ChromaDB, and HuggingFace embeddings for context-aware support automation.</p>
-      <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square" />
-      <img src="https://img.shields.io/badge/-ChromaDB-4B0082?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td width="50%">
-      <h4>🖐️ <a href="https://github.com/Siva-2517/hand-gesture-cursor">Hand Gesture Cursor Control</a></h4>
-      <p>Real-time computer vision system using OpenCV and MediaPipe to control the cursor through hand gestures.</p>
-      <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square" />
-      <img src="https://img.shields.io/badge/-MediaPipe-00897B?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🏗️ <a href="YOUR_PATENT_LINK">HARBOUR Management System (Patented)</a></h4>
-      <p>Patented management system project — published technical innovation.</p>
-      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/-OOP%20Design-blue?style=flat-square" />
-    </td>
-    <td width="50%">
-      <h4>🌐 <a href="https://github.com/Siva-2517/multi-college-events">Multi-College Events Portal</a></h4>
-      <p>Full-stack MERN application enabling event management and collaboration across multiple colleges.</p>
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+*Building at the intersection of agentic AI, full-stack engineering, and systems thinking.*
 
-### 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siva-2517&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Siva-2517&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-2517&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva-2517&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siva-2517&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  Open to <b>Software Engineer</b>, <b>Full Stack Developer</b>, and <b>AI Engineer</b> roles.<br/>
-  Always happy to talk about agentic AI, RAG systems, or full-stack architecture.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sivasurya-tech/"><img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sivatechie17@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8E2DE2&height=120&section=footer" />
-</p>
+</div>
