@@ -61,19 +61,19 @@ I approach project selection and career positioning with a founder's mindset —
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript&theme=dark"/>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind&theme=dark"/>
 </p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,redis&theme=dark"/>
 </p>
 
 ### Cloud, DevOps & Tooling
@@ -216,7 +216,7 @@ I approach project selection and career positioning with a founder's mindset —
 
 ### Agentic AI Engineer Intern — Innomatics Research Labs
 
-`[Add Duration]`
+`FEB 2026-MAY 2026`
 
 Built agentic AI workflows and retrieval-augmented generation pipelines, working across the LLM application lifecycle from prompt design to orchestration.
 
@@ -262,7 +262,7 @@ Built agentic AI workflows and retrieval-augmented generation pipelines, working
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR-HANDLE/" target="_blank">
+<a href="https://leetcode.com/u/Siva_2517/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
