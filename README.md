@@ -307,9 +307,13 @@ Built agentic AI workflows and retrieval-augmented generation pipelines, working
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Siva-2517/Siva-2517/gh-pages/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
