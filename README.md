@@ -124,7 +124,7 @@ I approach project selection and career positioning with a founder's mindset —
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | PaddleOCR · IndicBERT NER · OpenVINO INT8 · Intel Geti |
+| **Stack** | TessaractOCR · IndicBERT NER · OpenVINO INT8 · Intel Geti |
 | **Target** | >90% entity extraction accuracy |
 | **Timeline** | 12-week structured delivery plan |
 | **Repository** | [github.com/Siva-2517/seva-kendra-form-assistant](#) |
@@ -191,7 +191,7 @@ I approach project selection and career positioning with a founder's mindset —
 | Attribute | Detail |
 |---|---|
 | **Stack** | Next.js 14 · TypeScript · Tailwind CSS · Framer Motion · react-three-fiber · Claude API |
-| **Live URL** | [your-portfolio-url.vercel.app](#) |
+| **Live URL** | [Live Website](https://portfolio-v2-inky-ten.vercel.app) |
 | **Features** | 3D node-graph hero · glassmorphic project cards · interactive SVG skill constellation · custom cursor trail |
 
 </details>
@@ -206,7 +206,7 @@ I approach project selection and career positioning with a founder's mindset —
 | Attribute | Detail |
 |---|---|
 | **Stack** | Java |
-| **Repository** | [github.com/Siva-2517/java-parking-lot-system](#) |
+| **Repository** | [Github Repo](https://github.com/Siva-2517/Parking-Console) |
 
 </details>
 
@@ -237,10 +237,8 @@ Built agentic AI workflows and retrieval-augmented generation pipelines, working
 |---|---|
 | Published Patent | HARBOUR Management System |
 | Innomatics Research Labs | Agentic AI Engineer Internship |
-| LeetCode | `[Add problem count]` |
-| GeeksforGeeks | `[Add problem count]` |
-| HackerRank | `[Add rating/stars]` |
-| CodeChef | `[Add problem count]` |
+| LeetCode | `348` |
+| HackerRank | `⭐ Python - 5 Stars` `⭐ Java - 5 Stars` |
 
 </div>
 
@@ -266,49 +264,42 @@ Built agentic AI workflows and retrieval-augmented generation pipelines, working
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
-<a href="https://geeksforgeeks.org/user/YOUR-HANDLE/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://hackerrank.com/profile/YOUR-HANDLE" target="_blank">
+<a href="https://www.hackerrank.com/profile/sivasuryap23it" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 &nbsp;
-<a href="https://codechef.com/users/YOUR-HANDLE" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Siva-2517&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Siva-2517&theme=tokyonight&border_radius=10&hide_border=false" />
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Siva-2517&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" />
+
+<img height="175" src="https://streak-stats.demolab.com/?user=Siva-2517&theme=tokyonight&border_radius=10" />
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-2517&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Siva-2517&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Siva-2517&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Siva-2517&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
